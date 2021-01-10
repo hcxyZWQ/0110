@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d71ac74-2b1f-4fcf-a8bf-56c5afd615a3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0110.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/text.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,30 +78,50 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610240541448</updated>
-      <workItem from="1610240546971" duration="1873000" />
+      <workItem from="1610240546971" duration="2343000" />
     </task>
+    <task id="LOCAL-00001" summary="huhi">
+      <created>1610243890268</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610243890268</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="huhi" />
+    <option name="LAST_COMMIT_MESSAGE" value="huhi" />
   </component>
   <component name="WindowStateProjectService">
     <state x="392" y="88" key="#Project_Structure" timestamp="1610240620044">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="392" y="88" key="#Project_Structure/0.0.1600.860@0.0.1600.860" timestamp="1610240620044" />
-    <state x="675" y="320" width="273" height="220" key="Github.ShareDialog" timestamp="1610241638319">
+    <state x="400" y="23" key="CommitChangelistDialog2" timestamp="1610244250219">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="675" y="320" width="273" height="220" key="Github.ShareDialog/0.0.1600.860@0.0.1600.860" timestamp="1610241638319" />
+    <state x="400" y="23" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1610244250219" />
+    <state x="152" y="67" key="DiffContextDialog" timestamp="1610244249487">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="152" y="67" key="DiffContextDialog/0.0.1600.860@0.0.1600.860" timestamp="1610244249487" />
+    <state x="675" y="320" width="355" height="306" key="Github.ShareDialog" timestamp="1610244222330">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="675" y="320" width="355" height="306" key="Github.ShareDialog/0.0.1600.860@0.0.1600.860" timestamp="1610244222330" />
     <state x="670" y="134" key="Github.UntrackedFilesDialog" timestamp="1610241657701">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="670" y="134" key="Github.UntrackedFilesDialog/0.0.1600.860@0.0.1600.860" timestamp="1610241657701" />
-    <state x="392" y="162" key="Vcs.Push.Dialog.v2" timestamp="1610243806322">
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2" timestamp="1610244015079">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1610243806322" />
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1610244015079" />
     <state x="480" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1610240561791">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
